@@ -6,7 +6,7 @@ Runnig the Project
 It has both server and client built in. 
 
 Run the following commands in Sequence : 
-
+```
 cd client 
 npm install
 
@@ -16,7 +16,9 @@ npm install
 npm run server
 
 npm run client
+```
 
+http://localhost:3000/
 
 It will lauch both server and client. Client UI will be displayed in the browser.
 
